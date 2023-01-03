@@ -1,6 +1,16 @@
 # Apm
 
+This is a simple Angular project that uses the essentials of Angular framework.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+
+## Features
+
+Display of a table containing a list of the products
+Filter product list by product name
+Show and hide product images with the click of a button
+Display the stars of the 5 Star Rating column in a separate component and nest it in the parent component
+Click on the name of a product to display its details using Angular routing
+Navigate between the different components using the menu
 
 ## Development server
 
